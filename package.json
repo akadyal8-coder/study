@@ -1,0 +1,1 @@
+{"name":"studyflow-ai","version":"20.0.0","private":true,"type":"module","scripts":{"test":"node --check sw.js && node --test tests/syntax.test.mjs"}}
